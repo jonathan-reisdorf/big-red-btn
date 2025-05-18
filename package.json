@@ -1,0 +1,14 @@
+{
+  "name": "big-red-btn",
+  "description": "Node library for the Big Red Button from Dream Cheeky",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonathan Reisdorf",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "dependencies": {
+    "node-hid": "^3.1.2"
+  }
+}
